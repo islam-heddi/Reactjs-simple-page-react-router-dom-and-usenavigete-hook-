@@ -12,6 +12,12 @@ function Navbar(){
                     <li onClick={() => navigate('/')}>
                         Home
                     </li>
+                    <li onClick={() => navigate('/login')}>
+                        Login
+                    </li>
+                    <li onClick={() => navigate('/register')}>
+                        Register
+                    </li>
                     <li onClick={() => navigate('/about')}>
                         About
                     </li>

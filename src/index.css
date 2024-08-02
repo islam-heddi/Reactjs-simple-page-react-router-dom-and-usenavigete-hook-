@@ -15,6 +15,21 @@ header{
   color: white
 }
 
+input{
+  padding: 15px;
+}
+
+button{
+  padding: 10px;
+  background: black;
+  margin: 5px;
+  color: white;
+}
+
+button:hover{
+  background: rgba(0, 0, 0, 0.317);
+}
+
 header menu ul{
   display: flex;
   flex-direction: row;
