@@ -9,7 +9,7 @@ Currently, two official plugins are available:
 
 # raact js simple pages
 
-here we created two simple routes which are about and Home
+here we created four simple routes which are about and Home and register and login
 its just a little text
 i did this only to learn about reactjs
 
